@@ -97,7 +97,7 @@ def create_charts(year):
         ]
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
 
 
 
